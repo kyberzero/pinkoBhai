@@ -16,8 +16,8 @@ from chk_command import register_handlers as register_chk_handlers
 
 # Config
 API_ID = 21124241
-API_HASH = "8364835397:AAFZOEDIe05QC3OfO5x2HFkToX3JD5dZ0e4"
-BOT_TOKEN = "8298932004:AAH-yIRuJ9jFoUnrOMvTPaa4EYiPBsQiImg" # Replace with your Bot Token
+API_HASH = "b7ddce3d3683f54be788fddae73fa468"
+BOT_TOKEN = "8364835397:AAFZOEDIe05QC3OfO5x2HFkToX3JD5dZ0e4" # Replace with your Bot Token
 ADMIN_ID = [7292047135, 1308204344, 7856977111, 7029965057, 5295792382, 1965289355] # Replace with your Admin ID(s)
 GROUP_ID = -1002511471942 # Replace with your Group ID
 
